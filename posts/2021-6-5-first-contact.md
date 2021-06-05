@@ -15,7 +15,8 @@ author: 太郎
 ###小見出し2
 
 test test test
+>引用
 
-‵var str = "Hello CMS.js"‵
+var str = "Hello CMS.js"
 
 ###小見出し3
